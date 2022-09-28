@@ -1,0 +1,25 @@
+Launcher: Setup complete.
+
+------------- SUMMARY ---------------
+   Number of hosts:    1
+   Working directory:  /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds002013-mriqc
+   Processes per host: 4
+   Total processes:    4
+   Total jobs:         4
+   Scheduling method:  dynamic
+
+-------------------------------------
+Launcher: Starting parallel tasks...
+Launcher: Task 1 running job 1 on c208-017.frontera.tacc.utexas.edu (/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds002013-mriqc/.reproman/jobs/local/20220812-182701-f1c0/runscript 0 >/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds002013-mriqc/.reproman/jobs/local/20220812-182701-f1c0/stdout.0 2>/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds002013-mriqc/.reproman/jobs/local/20220812-182701-f1c0/stderr.0)
+Launcher: Task 3 running job 2 on c208-017.frontera.tacc.utexas.edu (/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds002013-mriqc/.reproman/jobs/local/20220812-182701-f1c0/runscript 1 >/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds002013-mriqc/.reproman/jobs/local/20220812-182701-f1c0/stdout.1 2>/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds002013-mriqc/.reproman/jobs/local/20220812-182701-f1c0/stderr.1)
+Launcher: Task 2 running job 3 on c208-017.frontera.tacc.utexas.edu (/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds002013-mriqc/.reproman/jobs/local/20220812-182701-f1c0/runscript 2 >/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds002013-mriqc/.reproman/jobs/local/20220812-182701-f1c0/stdout.2 2>/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds002013-mriqc/.reproman/jobs/local/20220812-182701-f1c0/stderr.2)
+Launcher: Task 0 running job 4 on c208-017.frontera.tacc.utexas.edu (/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds002013-mriqc/.reproman/jobs/local/20220812-182701-f1c0/runscript 3 >/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds002013-mriqc/.reproman/jobs/local/20220812-182701-f1c0/stdout.3 2>/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds002013-mriqc/.reproman/jobs/local/20220812-182701-f1c0/stderr.3)
+Launcher: Job 2 completed in 868 seconds.
+Launcher: Task 3 done. Exiting.
+Launcher: Job 1 completed in 886 seconds.
+Launcher: Task 1 done. Exiting.
+Launcher: Job 4 completed in 910 seconds.
+Launcher: Task 0 done. Exiting.
+Launcher: Job 3 completed in 917 seconds.
+Launcher: Task 2 done. Exiting.
+Launcher: Done. Job exited without errors
